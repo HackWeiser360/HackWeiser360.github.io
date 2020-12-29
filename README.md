@@ -143,7 +143,7 @@ gh-badge  | Select which GitHub buttons to display, available options are: [star
 
 ### Advanced features (including how to use a custom URL address for your site)
 
-I wrote [a blog post](https://deanattali.com/2015/03/12/beautiful-jekyll-how-to-build-a-site-in-minutes/) describing some more advanced features that I used in my website that are applicable to any Jekyll site.  It describes how I used a custom URL for my site (deanattali.com instead of daattali.github.io), how to add a Google-powered search into your site, and provides a few more details about having an RSS feed.
+I wrote a personal website describing some more advanced features that I used in my website that are applicable to any Jekyll site.  It describes how I used a custom URL for my site (deanattali.com instead of daattali.github.io), how to add a Google-powered search into your site, and provides a few more details about having an RSS feed.
 
 ## Creating a User Page vs a Project Page
 
